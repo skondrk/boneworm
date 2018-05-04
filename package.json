@@ -21,6 +21,7 @@
     "commander": "",
     "js-yaml": "",
     "longjohn": "^0.2.11",
+    "npm": "^6.0.0",
     "optimist": "",
     "pretty-error": "^2.0.2",
     "rando-js": "^0.1.1",
